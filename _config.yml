@@ -24,8 +24,6 @@ disqus:
   # shortname: my_disqus_shortname
   shortname: csrhymes
 
-remote_theme: chrisrhymes/bulma-clean-theme
-
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
@@ -80,3 +78,5 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600
     show_sidebar: false
+
+remote_theme: chrisrhymes/bulma-clean-theme
