@@ -24,6 +24,7 @@ disqus:
   # shortname: my_disqus_shortname
   shortname: csrhymes
 
+remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
   - jekyll-sitemap
@@ -31,6 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - kramdown-parser-gfm
+  - github-pages
 
 exclude: 
   - Gemfile
